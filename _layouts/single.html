@@ -40,7 +40,7 @@ layout: default
           {% if post.venue == 'In preparation' %}
             <p><i>{{ post.venue }}</i>, Expected date: {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
           {% else %}
-            <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>   
+            <p>Published in yoo<i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>   
           {% endif %}
         {% elsif page.date %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
