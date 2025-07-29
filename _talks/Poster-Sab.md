@@ -6,6 +6,7 @@ permalink: /talks/rasabXLIV
 venue: "XLIV Brazilian Astronomical Society virtual meeting"
 date: 2021-09-17
 location: "Virtual Meeting"
+excerpt: ''
 ---
 
 <object data="{{ site.url }}{{ site.baseurl }}/files/Poster-Sab.pdf" width="100%" 
