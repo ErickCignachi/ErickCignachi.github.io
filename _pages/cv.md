@@ -14,7 +14,7 @@ redirect_from:
 <br><br> -->
 
 
-<object data="{{ site.url }}{{ site.baseurl }}/files/CV_Érick.pdf" width="100%" 
+<object data="{{ site.url }}{{ site.baseurl }}/files/CV_Érick.pdf" width="99%" 
 height="100%" type="application/pdf"></object>
 <br>
 
