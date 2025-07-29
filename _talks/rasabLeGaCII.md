@@ -6,7 +6,7 @@ permalink: /talks/rasabLeGaCII
 venue: "II Workshop on Lensing by Galaxies and Clusters (II LeGaC)"
 date: 2022-08-18
 excerpt: ''
-location: " Rio de Janeiro, RJ, Brazil"
+location: "Rio de Janeiro, RJ, Brazil"
 ---
 
 <br>
