@@ -5,6 +5,7 @@ type: "Talk"
 permalink: /talks/rasabXLVII
 venue: "XLVII Brazilian Astronomical Society meeting"
 date: 2024-09-22
+excerpt: ''
 location: "Águas de Lindóia, SP, Brazil"
 ---
 
